@@ -1,0 +1,4 @@
+classes= 10
+train=data/bdd100k/train.txt
+valid=data/bdd100k/valid-day.txt
+names=data/bdd100k/classes.names
