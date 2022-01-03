@@ -1,17 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b22b4e34-ea5e-468f-a73a-84bd8391a43c" name="Changes" comment="1" />
+    <list default="true" id="b22b4e34-ea5e-468f-a73a-84bd8391a43c" name="Changes" comment="1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MUNIT-master" beforeDir="false" afterPath="$PROJECT_DIR$/MUNIT-master" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/config/coco.data" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/config/coco.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/config/create_custom_model.sh" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/config/create_custom_model.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/config/custom.data" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/config/custom.data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/config/yolov3-bdd100k.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/config/yolov3-bdd100k.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/config/yolov3.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/config/yolov3.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/data/coco.names" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/data/coco.names" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/data/get_coco_dataset.sh" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/data/get_coco_dataset.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/utils/augmentations.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/utils/augmentations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/utils/datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/utils/datasets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/utils/logger.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/utils/logger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/utils/loss.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/utils/loss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/utils/parse_config.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/utils/parse_config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/utils/transforms.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/utils/transforms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorchyolo/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorchyolo/utils/utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" show_ignored="true" />
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_COMMON_BRANCH" value="master" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="23C1wBvE7fCmlmoOYSgAZ6h75pP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,6 +52,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -41,6 +72,8 @@
       <workItem from="1641223492121" duration="614000" />
       <workItem from="1641224719870" duration="944000" />
       <workItem from="1641225684384" duration="74000" />
+      <workItem from="1641225782650" duration="719000" />
+      <workItem from="1641226554967" duration="246000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1641224795133</created>
@@ -56,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641225184930</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <created>1641225831351</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641225831352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
